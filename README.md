@@ -7,6 +7,7 @@ This reposotory is for the javascript version of the book.
 - 00 Randomness
   - Example 0.1: A normal walker
   - Example 0.1.1: A walker with more moves
+  - Example 0.2: A random-number distribution
 - 01 Vectors
   - Example 1.1: Bouncing ball with no vectors
   - Example 1.2: Bounging ball with vectors
