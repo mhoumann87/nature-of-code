@@ -10,7 +10,7 @@ class Walker {
 
   step() {
     // get a random between 0 and 1
-    const choice = random(1);
+    const choice = random();
     // Use the random number to choose the direction
     if (choice < 0.5) {
       this.x++;
